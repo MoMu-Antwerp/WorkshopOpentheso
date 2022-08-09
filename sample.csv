@@ -1,0 +1,9 @@
+URI,rdf:type,skos:prefLabel@nl,skos:prefLabel@en,skos:exactMatch,skos:broader,skos:scopeNote@nl,skos:altLabel@nl,skos:altLabel@nl
+1,skos:Concept,winkellijst,,,,,,
+2,skos:Concept,voeding,,,1,,,
+3,skos:Concept,kauwgom,chewing gum ,https://www.wikidata.org/wiki/Q130878,2,soort snoepgoed ,langenasem,tuttefrut
+4,skos:Concept,vlees,meat,,1,dood dier dat voornamelijk op land heeft geleefd,,
+5,skos:Concept,spek,bacon,https://www.wikidata.org/wiki/Q11106,6,,,
+6,skos:Concept,varkensvlees,pork meat,https://www.wikidata.org/wiki/Q191768,4,,,
+7,skos:Concept,kleding,clothing,http://vocab.getty.edu/aat/300266639,1,vezel- en textielmateriaal gedragen door mensen ,,
+8,skos:Concept,sportkousen,sport socks ,,1,,,

@@ -25,9 +25,10 @@ Als je Linux als operating system hebt, kan je stappen 1-3 overslaan en zal je h
   ![settingsVirtualBox](images\virtualbox_machine.bmp)
 
   ![settingsVirtualBox](virtualbox_machine_bridgednetwork.bmp)
+  
 4. Start de virtuele machine en volg de installatieinstructie (commandline). Kies voor alles de default waardes en creëer een gebruiker/wachtwoord. Bij één van de laatste stappen krijg je de optie om onder andere Docker te installeren. Selecteer Docker, volg de laatste stappen en herstart de machine + log in
+  Wat nu volgt zijn commando's die je via commandline moet ingeven:
 
-Wat nu volgt zijn commando's die je via commandline moet ingeven:
 5. docker container downloaden ```git clone https://github.com/viaacode/opentheso2-docker```
   daarna veranderen naar de nieuwe directory
   ```cd opentheso2-docker```

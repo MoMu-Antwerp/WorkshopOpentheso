@@ -24,7 +24,7 @@ Deze github repository bevat documentatie, handleidingen en demobestanden die do
 
 ## overzicht
 
-- installatie
+- [installatie](installatie.md)
 - Basis functionaliteiten
   - inloggen
   - overzicht interface

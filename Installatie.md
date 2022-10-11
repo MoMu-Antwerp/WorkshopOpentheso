@@ -22,7 +22,7 @@ Als je Linux als operating system hebt, kan je stappen 1-3 overslaan en zal je h
 2. ubuntu server image (.iso) downloaden https://ubuntu.com/download/server
 3. virtualbox machine met ubuntu opstarten
 
-  ![settingsVirtualBox](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/virtualbox_machine.bmp)
+  ![settingsVirtualBox](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/images/virtualbox_machine.bmp)
 
   ![settingsVirtualBox](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/images/virtualbox_machine_bridgednetwork.bmp)
 
@@ -32,6 +32,8 @@ Als je Linux als operating system hebt, kan je stappen 1-3 overslaan en zal je h
 5. docker container downloaden ```git clone https://github.com/viaacode/opentheso2-docker```
   daarna veranderen naar de nieuwe directory
   ```cd opentheso2-docker```
+
+  Je kan indien gewenst de
 
 6. docker container uitvoeren ```docker compose up``` of als dat niet werkt ```docker-compose up```
   Normaal gezien worden nu alle installatie commando's uitgevoerd. Wacht tot dat dit is afgelopen.

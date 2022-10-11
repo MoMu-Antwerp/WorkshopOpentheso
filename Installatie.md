@@ -26,14 +26,15 @@ Als je Linux als operating system hebt, kan je stappen 1-3 overslaan en zal je h
 
   ![settingsVirtualBox](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/images/virtualbox_machine_bridgednetwork.bmp)
 
-4. Start de virtuele machine en volg de installatieinstructie (commandline). Kies voor alles de default waardes en creëer een gebruiker/wachtwoord. Bij één van de laatste stappen krijg je de optie om onder andere Docker te installeren. Selecteer Docker, volg de laatste stappen en herstart de machine + log in
-  Wat nu volgt zijn commando's die je via commandline moet ingeven:
+4. Start de virtuele machine en volg de installatieinstructie (commandline). Kies voor alles de default waardes en creëer een gebruiker/wachtwoord. Bij één van de laatste stappen krijg je de optie om onder andere Docker te installeren. Selecteer Docker, volg de laatste stappen en herstart de machine + log in.
+
+  Wat verder volgt zijn commando's die je via commandline moet ingeven:
 
 5. docker container downloaden ```git clone https://github.com/viaacode/opentheso2-docker```
   daarna veranderen naar de nieuwe directory
   ```cd opentheso2-docker```
 
-  Je kan indien gewenst de
+  > voor gevorderden: Je kan indien gewenst de Dockerfile (opentheso versie), docker-compose.yml (poort en volume) en de preferences.properties (taal etc.) met een teksteditor (nano of vim) aanpassen naar eigen wens.
 
 6. docker container uitvoeren ```docker compose up``` of als dat niet werkt ```docker-compose up```
   Normaal gezien worden nu alle installatie commando's uitgevoerd. Wacht tot dat dit is afgelopen.
@@ -44,3 +45,7 @@ Als je Linux als operating system hebt, kan je stappen 1-3 overslaan en zal je h
   ```ifconfig``` Eén van de ip adressen zal bereikbaar zijn via je browser, gebruik dit in de volgende stap
 
 8. Surf naar deze url in je browser (vervang 'ipadres' door het ip uit vorige stap) http://ipadres/opentheso2 of http://localhost/opentheso2
+
+
+Als alles goed verlopen is zie je nu het opentheso beginscherm.
+> volgende: [basis functionaliteiten](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/basics.md)

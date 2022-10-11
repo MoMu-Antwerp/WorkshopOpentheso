@@ -1,3 +1,3 @@
 # Basis functionaliteiten
 
-/assets/images/beginscherm.png
+![beginscherm](/assets/images/beginscherm.png)

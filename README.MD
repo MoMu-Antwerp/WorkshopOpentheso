@@ -19,4 +19,21 @@ Tijdens deze workshop, die we samen met meemoo organiseren, delen we onze ervari
 
 Deze github repository bevat documentatie, handleidingen en demobestanden die doorheen de workshop gebruikt zullen worden. Op deze manier kan je de workshop ook zelfstandig / op een later moment overlopen.
 
-![Test image](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/Pasted%20image%2020220809155300.png)
+![Test image](https://github.com/MoMu-Antwerp/WorkshopOpentheso/images/blob/main/Pasted%20image%2020220809155300.png)
+
+## overzicht
+
+- installatie
+- Basis functionaliteiten
+  - inloggen
+  - overzicht interface
+- nieuwe thesaurus aanmaken
+  - concepten toevoegen
+  - vertalingen
+  - afbeelding toevoegen
+  - aligneren
+- thesaurus importeren/exporteren
+- bulk edits
+- thesaurus playtime
+  - omeka-s / koha (?)
+  - virtuoso (?)

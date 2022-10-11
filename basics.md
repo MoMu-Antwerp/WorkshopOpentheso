@@ -1,3 +1,3 @@
 # Basis functionaliteiten
 
-![beginscherm](/assets/images/beginscherm.png)
+![beginscherm](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/images/beginscherm.png)

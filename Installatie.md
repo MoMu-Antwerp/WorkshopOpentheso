@@ -42,7 +42,7 @@ Als je Linux als operating system hebt, kan je stappen 1-3 overslaan en zal je h
 
   ```sudo apt install net-tools```
 
-  ```ifconfig``` Eén van de ip adressen zal bereikbaar zijn via je browser, gebruik dit in de volgende stap
+  ```ifconfig``` Eén van de ip adressen zal bereikbaar zijn via je browser, gebruik dit in de volgende stap. Alternatief: ```curl -4 icanhazip.com```
 
 8. Surf naar deze url in je browser (vervang 'ipadres' door het ip uit vorige stap) http://ipadres/opentheso2 of http://localhost/opentheso2
 

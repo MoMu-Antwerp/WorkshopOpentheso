@@ -27,5 +27,4 @@ Naast de login knop kan je de taal van de interface selecteren.
 ## zoeken
 
 
-
-> volgende: [basis functionaliteiten](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/nieuwethesaurus.md)
+> volgende: [creëer een nieuwe thesaurus](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/nieuwethesaurus.md)

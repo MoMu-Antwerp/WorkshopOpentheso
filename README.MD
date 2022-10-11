@@ -13,3 +13,10 @@ Tijdens deze workshop, die we samen met meemoo organiseren, delen we onze ervari
     15.15 u. Hands-on gedeelte waarin we gezamenlijk de belangrijkste functionaliteiten van Opentheso uitproberen
     16.55 u. Afronding en evaluatie
     17.00 - 19.00 u. Drankje aangeboden door MoMu
+
+
+## How to use
+
+Deze github repository bevat documentatie, handleidingen en demobestanden die doorheen de workshop gebruikt zullen worden. Op deze manier kan je de workshop ook zelfstandig / op een later moment overlopen.
+
+![Test image](Pasted image 20220809155300.png)

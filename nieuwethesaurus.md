@@ -6,3 +6,6 @@ Als eerste oefening maken we een thesaurus 'from scratch'
 -
 
 ![create new](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/images/createNew.png)
+
+
+![](assets/nieuwethesaurus-73724640.png)

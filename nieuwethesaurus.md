@@ -23,5 +23,18 @@
 ![](assets/nieuwethesaurus-2a51cce9.png)
  - Klik op het plusteken in het overzichtvenster om een eerste, 'top concept' aan te maken: ![](assets/nieuwethesaurus-99270b17.png)
 
+ - Vul de naam en eventueel de beschrijving (Notation) in en klik op <b>Validate</b>:
+
  ![](assets/nieuwethesaurus-ca6016a0.png)
- > <i>Voor deze oefening is enkel de <b>naam</b>van het top concept en een beschrijving (<b>Notation</b>) belangrijk</i>
+ > <i>Voor deze oefening is enkel de <b>naam</b> van het top concept en een beschrijving (<b>Notation</b>) belangrijk. De andere functies komen later aan bod.</i>
+
+![](assets/nieuwethesaurus-dac2972c.png)
+
+## Meer Concepten
+- voeg Narrower terms toe door op het plusteken naast je top concept te klikken en 'Concept' te kiezen: ![](assets/nieuwethesaurus-78fde3cc.png)
+    - je kan meerdere concepten na elkaar invoeren:
+
+- maak een tweede top concept
+- maak een vertaling voor een Concept
+- breng nieuwe structuur aan
+- aligneer een concept met wikidata

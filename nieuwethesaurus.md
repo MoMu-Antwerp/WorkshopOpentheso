@@ -38,3 +38,6 @@
 - maak een vertaling voor een Concept
 - breng nieuwe structuur aan
 - aligneer een concept met wikidata
+
+
+> volgende: [thesaurus op basis van een excel-bestand](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/import_csv.md)

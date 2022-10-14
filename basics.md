@@ -2,14 +2,15 @@
 
 Het beginscherm van Opentheso ziet er zo uit:
 
+![](assets/basics-919894df.png)
 
-![beginscherm](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/images/beginscherm.png)
-
-> let op: we gebruiken voor deze workshop versie 22.03. Deze versie is niet de meest recente. Sindsdien is de interface veranderd
+> let op: we gebruiken voor deze workshop versie 22.03. Deze versie is niet de meest recente. Sindsdien is de interface en een aantal functionaliteiten grondig veranderd. Een publiek voorbeeld van een meer recente versie van opentheso staat hier: https://pactols.frantiq.fr/opentheso/
 
 ## (publieke) Thesaurus selecteren
 
 Wanneer je nog niet ingelogd bent als gebruiker, kan je in het rechterbovenmenu enkel de gepubliceerde thesauri selecteren.
+
+![](assets/basics-1dfc3ec7.png)
 
 ## Inloggen
 

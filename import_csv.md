@@ -30,6 +30,6 @@ via Toolbox --> Importer
   ![[Pasted image 20220809160919.png]]
 - selecteer de nieuwe thesaurus
   ![[Pasted image 20220809161011.png]]
-
+---
 
 > volgende: [thesaurus (her)bruikbaar maken](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/hergebruik.md)

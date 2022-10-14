@@ -50,4 +50,5 @@ Als je Linux als operating system hebt, kan je stappen 1-3 overslaan en zal je h
 Als alles goed verlopen is zie je nu het opentheso beginscherm.
 Default Logingegevens zijn admin/admin
 
+---
 > volgende: [basis functionaliteiten](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/basics.md)

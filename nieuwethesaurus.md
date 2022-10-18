@@ -26,9 +26,9 @@
  - Vul de naam en eventueel de beschrijving (Notation) in en klik op <b>Validate</b>:
 
  ![](assets/nieuwethesaurus-ca6016a0.png)
- > <i>Voor deze oefening is enkel de <b>naam</b> van het top concept en een beschrijving (<b>Notation</b>) belangrijk. De andere functies komen later aan bod.</i>
+ > <i>Voor deze oefening is enkel de <b>naam</b> van het top concept belangrijk. De andere functies komen later aan bod.</i>
 
-![](assets/nieuwethesaurus-dac2972c.png)
+![](assets/nieuwethesaurus-9ee843cc.png)
 
 ## Meer Concepten
 - voeg Narrower terms toe door op het plusteken naast je top concept te klikken en 'Concept' te kiezen: ![](assets/nieuwethesaurus-78fde3cc.png)

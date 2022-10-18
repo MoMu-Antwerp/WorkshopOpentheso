@@ -22,15 +22,15 @@ Deze github repository bevat documentatie, handleidingen en demobestanden die do
 ## overzicht
 
 - [installatie](Installatie.md)
-- Basis functionaliteiten
+- [Basis functionaliteiten](basics.md)
   - inloggen
   - overzicht interface
-- nieuwe thesaurus aanmaken
+- [nieuwe thesaurus aanmaken](nieuwethesaurus.md)
   - concepten toevoegen
   - vertalingen
   - afbeelding toevoegen
   - aligneren
-- thesaurus importeren/exporteren
+- [thesaurus importeren/exporteren](nieuwethesaurus.md)
 - bulk edits
 - thesaurus playtime
   - skosplay

@@ -31,12 +31,19 @@
 ![](assets/nieuwethesaurus-9ee843cc.png)
 
 ## Meer Concepten
-- voeg Narrower terms toe door op het plusteken naast je top concept te klikken en 'Concept' te kiezen: ![](assets/nieuwethesaurus-78fde3cc.png)
+- voeg een 10-tal Narrower terms toe door op het plusteken naast je top concept te klikken en 'Concept' te kiezen: ![](assets/nieuwethesaurus-78fde3cc.png)
+    ![](assets/nieuwethesaurus-65b0ef4a.png)
     - je kan meerdere concepten na elkaar invoeren:
+      - voeg minstens twee verschillende pasta soorten en kauwgom toe. Deze gaan we nodig hebben in een volgende stap.
 
+    ![](assets/nieuwethesaurus-7ebfe824.png)
+
+
+- breng nieuwe structuur aan (door bijvoorbeeld een nieuw concept 'pasta' aan te maken.
+- klik en sleep de pastasoorten naar 'pasta'
+![](assets/2022-10-18_10-46_pasta.gif)
 - maak een tweede top concept
 - maak een vertaling voor een Concept
-- breng nieuwe structuur aan
 - aligneer een concept met wikidata
 
 

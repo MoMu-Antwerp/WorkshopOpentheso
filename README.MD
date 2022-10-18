@@ -11,7 +11,7 @@ Tijdens deze workshop, die we samen met meemoo organiseren, delen we onze ervari
     14.10 u. Theoretisch gedeelte met o.a. een overzicht van de functionaliteiten van de tool en een praktijkvoorbeeld (TAG-project)
     15.00 u. Pauze
     15.15 u. Hands-on gedeelte waarin we gezamenlijk de belangrijkste functionaliteiten van Opentheso uitproberen
-    16.55 u. Afronding en evaluatie
+    16.50 u. Afronding en evaluatie
     17.00 - 19.00 u. Drankje aangeboden door MoMu
 
 
@@ -30,9 +30,16 @@ Deze github repository bevat documentatie, handleidingen en demobestanden die do
   - vertalingen
   - afbeelding toevoegen
   - aligneren
+  - nieuw concept voorstellen en goed/afkeuren
 - [thesaurus importeren/exporteren](nieuwethesaurus.md)
 - bulk edits
 - thesaurus playtime
   - skosplay
   - omeka-s / koha (?)
   - virtuoso (?)
+
+
+## meer info
+Officiële website: https://opentheso.hypotheses.org/
+
+Youtube kanaal Opentehso: https://www.youtube.com/channel/UCCuY3Jf8KXWMlMVZkdADH1g/videos

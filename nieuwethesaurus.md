@@ -41,10 +41,20 @@
 
 - breng nieuwe structuur aan (door bijvoorbeeld een nieuw concept 'pasta' aan te maken.
 - klik en sleep de pastasoorten naar 'pasta'
+
 ![](assets/2022-10-18_10-46_pasta.gif)
-- maak een tweede top concept
+- breng nog wat verder hiërarchie aan door verschillende tussenniveaus aan te brengen (vb 'voedsel' ; 'drank' ; 'conserven' ; ...)
+
+![](assets/nieuwethesaurus-4c8fcbfb.png)
+
 - maak een vertaling voor een Concept
 - aligneer een concept met wikidata
+
+
+
+![](assets/nieuwethesaurus-5799b2df.png)
+
+- maak een tweede top concept
 
 
 > volgende: [thesaurus op basis van een excel-bestand](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/import_csv.md)

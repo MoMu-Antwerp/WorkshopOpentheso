@@ -12,6 +12,8 @@ Wanneer je nog niet ingelogd bent als gebruiker, kan je in het rechterbovenmenu 
 
 ![](assets/basics-1dfc3ec7.png)
 
+Selecteer een beschikbare thesaurus 
+
 ## Inloggen
 
 Naast het thesaurus selectie vak, staat een login knop. Gebruik deze om in te loggen met de aan jou toegekende username/wachtwoord

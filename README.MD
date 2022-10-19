@@ -33,13 +33,13 @@ Deze github repository bevat documentatie, handleidingen en demobestanden die do
   - afbeelding toevoegen
   - aligneren
   - nieuw concept voorstellen en goed/afkeuren
-- [thesaurus importeren/exporteren](nieuwethesaurus.md)
-- advanced
+- [thesaurus importeren/exporteren](import_csv.md)
+- [advanced](advanced.md)
   - Persistente identificatie (arks)
   - cleaning
   - mergen
   - bulk edits
-- thesaurus playtime
+- [thesaurus playtime](playtime.md)
   - API
   - skosplay
   - omeka-s / koha (?)

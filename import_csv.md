@@ -9,10 +9,16 @@ Voor het importeren van een excel-bestand, verwacht opentheso dat deze aan aanta
 
 1. download de sample csv
 
-
+[sample.csv](sample.csv)
 
 ## thesaurus importeren
 via Toolbox --> Importer
+
+![](2022-10-19-14-43-51.png)
+
+![](f:/Users/tobias/OneDrive%20-%20AG%20Culturele%20Instellingen%20Antwerpen%20Erfgoed/Documents/WorkshopOpentheso/WorkshopOpentheso/2022-10-19-14-45-22.png)
+
+![](assets/2022-10-19-14-47-59.png)
 
 ![[Pasted image 20220809155937.png]]
 

@@ -22,9 +22,11 @@ Als je Linux als operating system hebt, kan je stappen 1-3 overslaan en zal je h
 2. ubuntu server image (.iso) downloaden https://ubuntu.com/download/server
 3. virtualbox machine met ubuntu opstarten
 
-  ![settingsVirtualBox](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/images/virtualbox_machine.bmp)
 
-  ![settingsVirtualBox](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/images/virtualbox_machine_bridgednetwork.bmp)
+  
+  ![settingsVirtualBox](assets/virtualbox_machine.bmp)
+
+  ![settingsVirtualBox](assets/virtualbox_machine_bridgednetwork.bmp)
 
 4. Start de virtuele machine en volg de installatieinstructie (commandline). Kies voor alles de default waardes en creëer een gebruiker/wachtwoord. Bij één van de laatste stappen krijg je de optie om onder andere Docker te installeren. Selecteer Docker, volg de laatste stappen en herstart de machine + log in.
 
@@ -51,4 +53,4 @@ Als alles goed verlopen is zie je nu het opentheso beginscherm.
 Default Logingegevens zijn admin/admin
 
 ---
-> volgende: [basis functionaliteiten](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/basics.md)
+> volgende: [basis functionaliteiten](basics.md)

@@ -99,9 +99,11 @@ Navigeer naar 'Collection' in het overzichtsvenster
 ![](assets/2022-10-19-20-42-29.png)
 
 - klik op het plusteken en maak enkele 'collections' aan
+
 ![](assets/2022-10-19-20-44-13.png)
 
 ![](assets/2022-10-19-20-45-58.png)
+
 - Om concepten toe te voegen aan een collectie, ga terug naar de Concept-tab en selecteer een concept.
 ![](assets/2022-10-19-20-47-41.png)
 - Klik op het tandwieltje bij 'Collection' en kies of je het enkel het conept of het concept en onderliggende concepten (narrower terms) wil toevoegen aan een collectie.

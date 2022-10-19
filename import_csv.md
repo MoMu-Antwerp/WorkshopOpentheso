@@ -30,7 +30,7 @@ via Toolbox --> Importer
 ![](assets/2022-10-19-16-09-13.png)
 
 Let op volgende dingen:
-- (voor de live workshop:) gebruik als naam een unieke naam, kies de taal en voeg toe aan het juiste project
+- (voor de live workshop:) gebruik als naam een unieke naam (liefts met je username), kies de taal en voeg toe aan het juiste project
 - excel gebruikt default een puntkomma als 'Délimiteur Csv'
 - je krijgt indien het bestand succesvol is opgeladen een melding 'File correctly loaded' en
 

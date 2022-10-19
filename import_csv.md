@@ -1,14 +1,14 @@
-## creëer nieuw project
-Maak een nieuw project aan via Profile --> My projects/users.
-Klik op + teken
+# Excel naar opentheso
 
-![[Pasted image 20220809155300.png]]
+## bestand voorbereiden
 
-Vul een naam in voor het project.
+Voor het importeren van een excel-bestand, verwacht opentheso dat deze aan aantal eisen voldoet:
+- csv formaat: Comma separated value (csv) is een bestandsformaat voor tabelgegevens dat door meerdere applicaties kan geopend en bewerkt worden, bijvoorbeeld met de meest basic tekst editor.
+- skos-hoofdingen: de hoofdingen van de kolommen moeten overenkomen met het skos datamodel.
+- ID's: de eerste kolom moet een unieke identifier hebben. Deze kan gebruikt worden om de hiërarchie te bepalen.
 
-## gebruikers toevoegen aan project
+1. download de sample csv
 
-![[Pasted image 20220809155757.png]]
 
 
 ## thesaurus importeren

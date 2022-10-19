@@ -49,4 +49,4 @@ Deze github repository bevat documentatie, handleidingen en demobestanden die do
 ## meer info
 Officiële website: https://opentheso.hypotheses.org/
 
-Youtube kanaal Opentehso: https://www.youtube.com/channel/UCCuY3Jf8KXWMlMVZkdADH1g/videos
+Youtube kanaal Opentheso: https://www.youtube.com/channel/UCCuY3Jf8KXWMlMVZkdADH1g/videos

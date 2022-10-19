@@ -25,6 +25,8 @@ Deze github repository bevat documentatie, handleidingen en demobestanden die do
 - [Basis functionaliteiten](basics.md)
   - inloggen
   - overzicht interface
+    - thesaurus kiezen
+    - zoeken
 - [nieuwe thesaurus aanmaken](nieuwethesaurus.md)
   - concepten toevoegen
   - vertalingen
@@ -32,8 +34,13 @@ Deze github repository bevat documentatie, handleidingen en demobestanden die do
   - aligneren
   - nieuw concept voorstellen en goed/afkeuren
 - [thesaurus importeren/exporteren](nieuwethesaurus.md)
-- bulk edits
+- advanced
+  - Persistente identificatie (arks)
+  - cleaning
+  - mergen
+  - bulk edits
 - thesaurus playtime
+  - API
   - skosplay
   - omeka-s / koha (?)
   - virtuoso (?)

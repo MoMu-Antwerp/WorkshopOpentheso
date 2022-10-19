@@ -4,7 +4,7 @@ Het beginscherm van Opentheso ziet er zo uit:
 
 ![](assets/basics-919894df.png)
 
-> let op: we gebruiken voor deze workshop versie 22.03. Deze versie is niet de meest recente. Sindsdien is de interface en een aantal functionaliteiten grondig veranderd. Een publiek voorbeeld van een meer recente versie van opentheso staat hier: https://pactols.frantiq.fr/opentheso/
+> let op: we gebruiken voor deze workshop versie 22.03. Deze versie is niet de meest recente. Sindsdien is de interface en een aantal functionaliteiten grondig veranderd. Een publiek voorbeeld van een meer recente versie van opentheso staat hier: <a href="https://pactols.frantiq.fr/opentheso/" target="_blank">https://pactols.frantiq.fr/opentheso/</a>.
 
 ## (publieke) Thesaurus selecteren
 
@@ -12,7 +12,7 @@ Wanneer je nog niet ingelogd bent als gebruiker, kan je in het rechterbovenmenu 
 
 ![](assets/basics-1dfc3ec7.png)
 
-Selecteer een beschikbare thesaurus 
+Selecteer een beschikbare thesaurus
 
 ## Inloggen
 

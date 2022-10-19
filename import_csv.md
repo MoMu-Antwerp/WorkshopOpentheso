@@ -42,4 +42,4 @@ Let op volgende dingen:
 
 ---
 
-> volgende: [thesaurus (her)bruikbaar maken](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/hergebruik.md)
+> volgende: [geavanceerde functionaliteiten](advanced.md)

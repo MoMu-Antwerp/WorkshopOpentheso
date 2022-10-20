@@ -34,7 +34,11 @@ Bij het invullen van het metadataveld krijg je dan een autocomplete functie te z
 ![](assets/opentheso_omeka-s_2022-10-19.gif)
 
 # playtime
-- skosplay
-- virtuoso
-- openrefine(?)
+
+## skosplay
+
+## virtuoso
+
+## openrefine(?)
+
 ...

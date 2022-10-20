@@ -113,6 +113,29 @@ Navigeer naar 'Collection' in het overzichtsvenster
 ![](assets/2022-10-19-20-47-41.png)
 - Klik op het tandwieltje bij 'Collection' en kies of je het enkel het concept of het concept en onderliggende concepten (narrower terms) wil toevoegen aan een collectie.
 
+## Kandidaat concepten
+
+Selecteer de thesaurus waaraan je Kandidaat concepten wil toevoegen.
+Voor de workshop is dit 'workshop_demo'
+
+Voeg een aantal suggestie concepten toe, door op 'Candidate' te klikken
+
+![](assets/nieuwethesaurus-c3cd987d.png)
+
+Je kan meteen ook kiezen aan welk collectie je het concept wil toevoegen
+
+![](assets/nieuwethesaurus-a78d8aa4.png)
+
+Bekijk daarna de proposals:
+
+![](assets/nieuwethesaurus-fc91f372.png)
+
+Selecteer een concpet/term naar keuze en voeg een commentaar toe
+
+![](assets/nieuwethesaurus-05049909.png)
+
+Nadien keuren we een aantal concpten goed/af (gezamenlijk)
+
 
 
 > volgende: [thesaurus op basis van een excel-bestand](https://github.com/MoMu-Antwerp/WorkshopOpentheso/blob/main/import_csv.md)

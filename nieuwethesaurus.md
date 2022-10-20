@@ -61,6 +61,11 @@
 ## Facetten
 
 Het is mogelijk om in plaats van een concept aan te maken, te kiezen voor 'new Facet'.
+
+Een Facet verschilt van een Narrower term in die zin, dat een facet geen concept op zichzelf vormt, maar eerder dient om binnen de context van een concept, structuur aan te brengen.
+Een voorbeeld:  https://www.youtube.com/watch?v=KKC_MkuAaJw
+'Melk' is de broader term, 'Melk per type dier/plant' het facet, 'amandelmelk' of 'geitenmelk' zijn dan de narrower terms
+
 Je mag er gerust mee experimenteren maar hier hebben we zelf in onze usecases nog geen gebruik van gemaakt.
 Wanneer je een Facet aanmaakt, krijgt het in de skos export het volgende label:
 
@@ -106,7 +111,7 @@ Navigeer naar 'Collection' in het overzichtsvenster
 
 - Om concepten toe te voegen aan een collectie, ga terug naar de Concept-tab en selecteer een concept.
 ![](assets/2022-10-19-20-47-41.png)
-- Klik op het tandwieltje bij 'Collection' en kies of je het enkel het conept of het concept en onderliggende concepten (narrower terms) wil toevoegen aan een collectie.
+- Klik op het tandwieltje bij 'Collection' en kies of je het enkel het concept of het concept en onderliggende concepten (narrower terms) wil toevoegen aan een collectie.
 
 
 

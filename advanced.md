@@ -35,9 +35,50 @@ Bij het invullen van het metadataveld krijg je dan een autocomplete functie te z
 
 # playtime
 
+Exporteer je thesaurus door in de Toolbox op Exporter te klikken, kies Skos als formaat
+
+![](assets/advanced-dba7bf7b.png)
+
 ## skosplay
 
+https://skos-play.sparna.fr/play/
+
+
+
 ## virtuoso
+
+via dockerfile
+https://hub.docker.com/r/openlink/virtuoso-opensource-7
+daarna deze walktrough om skosfile te importern in quadstore: https://www.youtube.com/watch?v=A8gVp1Wjmso
+
+Open Sparql endpoint
+
+```
+SELECT * WHERE {
+?s ?p ?o
+}
+LIMIT 10
+```
+
+
+```
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT * WHERE
+{
+  $concept skos:prefLabel $prefLabel .
+  FILTER (str($prefLabel) = "binding")
+  FILTER ( lang(?narrowerLabel) = "en" )
+  OPTIONAL { $concept skos:altLabel $altLabel . }
+  OPTIONAL { $concept skos:hiddenLabel $hiddenLabel . }
+  OPTIONAL { $concept skos:definition $definition . }
+  OPTIONAL { $concept skos:broader $broader . $broader skos:prefLabel $broaderLabel . }
+  OPTIONAL { $concept skos:narrower $narrower . $narrower skos:prefLabel $narrowerLabel . }
+  OPTIONAL { $concept skos:related $related . $related skos:prefLabel $relatedLabel . }
+}
+LIMIT 10
+```
+
+
 
 ## openrefine(?)
 

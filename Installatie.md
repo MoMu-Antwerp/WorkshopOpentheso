@@ -38,7 +38,7 @@ Als je Linux als operating system hebt, kan je stappen 1-3 overslaan en zal je h
 
   > voor gevorderden: Je kan indien gewenst de Dockerfile (opentheso versie), docker-compose.yml (poort en volume) en de preferences.properties (taal etc.) met een teksteditor (nano of vim) aanpassen naar eigen wens.
 
-6. docker container uitvoeren ```docker compose up``` of als dat niet werkt ```docker-compose up```
+6. docker container uitvoeren ```sudo docker compose up``` of als dat niet werkt ```sudo docker-compose up```
   Normaal gezien worden nu alle installatie commando's uitgevoerd. Wacht tot dat dit is afgelopen.
 7. ip adres van virtualbox achterhalen
 

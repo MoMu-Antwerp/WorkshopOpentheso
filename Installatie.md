@@ -42,9 +42,10 @@ Als je Linux als operating system hebt, kan je stappen 1-3 overslaan en zal je h
   Normaal gezien worden nu alle installatie commando's uitgevoerd. Wacht tot dat dit is afgelopen.
 7. ip adres van virtualbox achterhalen
 
-  ```sudo apt install net-tools```
-
-  ```ifconfig``` Eén van de ip adressen zal bereikbaar zijn via je browser, gebruik dit in de volgende stap. Alternatief: ```curl -4 icanhazip.com```
+  ```ifconfig``` Eén van de ip adressen zal bereikbaar zijn via je browser, gebruik dit in de volgende stap. 
+  Als de output van ifconfig te lang is, zal het ip adres niet zichtbaar zijn. Met ```ìfconfig > ip.txt``` en ```nano ip.txt``` kan je de output beter bekijken. 
+  
+  Alternatief: ```curl -4 icanhazip.com```
 
 8. Surf naar deze url in je browser (vervang 'ipadres' door het ip uit vorige stap) http://ipadres/opentheso2 of http://localhost/opentheso2
 

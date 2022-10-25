@@ -19,6 +19,10 @@ Tijdens deze workshop, die we samen met meemoo organiseren, delen we onze ervari
 
 Deze github repository bevat documentatie, handleidingen en demobestanden die doorheen de workshop gebruikt zullen worden. Op deze manier kan je de workshop ook zelfstandig / op een later moment overlopen.
 
+De presentatie die tijdens het theoretisch gedeelte getoond werd kan je hier bekijken: [20221020_Presentatie_WorkshopOpentheso.pdf](20221020_Presentatie_WorkshopOpentheso.pdf)
+
+> Note: Nog niet elk onderdeel van deze repository is helemaal uitgewerkt. Het diende vooral als leidraad tijdens de (fysieke) workshop. Vooral de onderdelen over de meer geavanceerde functionaliteiten mankeren nog de nodige structuur en screenshots.
+
 ## overzicht
 
 - [installatie](Installatie.md)
